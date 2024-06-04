@@ -1,4 +1,4 @@
-const apiKey = 'Iyp96lXe6XcIopxjSQlriZi3OBGodauVj4QfJZQ4'; // Replace with your NASA API key
+const apiKey = 'abc'; // Replace with your NASA API key
 
  // Replace with your NASA API key
 
